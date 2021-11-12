@@ -23,7 +23,7 @@
 
 body {
   font-family: 'Montserrat', sans-serif;
-  margin: 190px 30px 0px 30px;
+  margin: 140px 30px 0px 30px;
 }
 
 h1 {
@@ -36,4 +36,6 @@ p {
 
 .Title {
   height: 250px;
+  float: left;
+  padding-inline-end: 20px;
 }
